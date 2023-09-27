@@ -33,8 +33,8 @@
 
 
 ## Описание данных
-В этом проекте используются данные с HeadHunter [скачать](https://drive.google.com/file/d/1PO6uJwsw7LVwEVA5X0c1iBHzMlLUnB4L/view?usp=sharing)
-
+* В этом проекте используются данные с HeadHunter [скачать](https://drive.google.com/file/d/1PO6uJwsw7LVwEVA5X0c1iBHzMlLUnB4L/view?usp=sharing)
+* В этом датасете курсы валют [скачать](https://drive.google.com/file/d/1PO6uJwsw7LVwEVA5X0c1iBHzMlLUnB4L/view?usp=sharing)
 
 
 ## Используемые зависимости
@@ -48,9 +48,8 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/poweress/Project-1.git
+git clone https://github.com/poweress/project-1.git
 ```
 
 ## Использование
 [Вся информация о работе представлена в jupyter-ноутбуке]( Project-1._Ноутбук-шаблон.ipynb)
-
