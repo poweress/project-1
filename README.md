@@ -1,4 +1,4 @@
-<center> <img src = ./image/image.jpg alt="drawing" style="width:400px;"> </center>
+<center> <img src = ./image/image.png alt="drawing" style="width:400px;"> </center>
 
 # <center> Проект: Анализ резюме из HeadHunter </center>
 
