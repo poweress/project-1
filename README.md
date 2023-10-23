@@ -24,6 +24,7 @@
 
 
 
+<img src=./charts/icons8-chat-message.gif>
 
 **О структуре проекта:**
 * [data](./data) - папка с исходными табличными данными
@@ -48,9 +49,7 @@
 
 ## Установка проекта
 
-```
-git clone https://github.com/poweress/project-1.git
-```
+<img src=./charts/icons8-github.gif> <p> ```git clone https://github.com/poweress/project-1.git``` </p>
 
 ## Использование
 [Вся информация о работе представлена в jupyter-ноутбуке]( Project-1._Ноутбук-шаблон.ipynb)
